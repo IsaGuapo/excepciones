@@ -1,0 +1,20 @@
+{
+  "name": "excepciones",
+  "version": "1.0.0",
+  "description": "Las excepciones son erroes en ejecución, es decir, son cuestiones que no puede controlar un compilador o un intérprete (en el caso de Javascript los intérpretes que hemos visto son el navegador y Node).",
+  "main": "excepciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node excepciones.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaGuapo/excepciones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaGuapo/excepciones/issues"
+  },
+  "homepage": "https://github.com/IsaGuapo/excepciones#readme"
+}
